@@ -11,6 +11,7 @@ $(document).ready(function() {
 
       $(".hide").hide();
     });
+
     groceArray.sort();
 
     groceArray.forEach(function(groc) {
